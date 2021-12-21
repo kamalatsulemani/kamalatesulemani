@@ -96,10 +96,10 @@ const Footer = class extends React.Component {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="dailymotion" href="https://dailymotion.com/KamalateSulemani">
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
+                    src={dailymotion}
+                    alt="dailymotion"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
